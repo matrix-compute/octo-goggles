@@ -3,7 +3,7 @@
     "@expo/metro-runtime": "^3.1.1",
     "@expo/vector-icons": "^14.0.0",
     "@types/react": "~18.2.45",
-    "expo": "^50.0.4",
+    "expo": "^52.0.24",
     "expo-constants": "^15.4.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
